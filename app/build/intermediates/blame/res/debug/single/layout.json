@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\studio_work\\ToStudioDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "D:\\studio_work\\ToStudioDemo\\app\\build\\intermediates\\exploded-aar\\ToStudioDemo\\libzxing\\unspecified\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\studio_work\\ToStudioDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zxing.xml",
+        "source": "D:\\studio_work\\ToStudioDemo\\app\\src\\main\\res\\layout\\activity_zxing.xml"
+    },
+    {
+        "merged": "D:\\studio_work\\ToStudioDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\studio_work\\ToStudioDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
